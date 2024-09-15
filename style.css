@@ -3,6 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
+    color: red;
 }
 
 .container {
@@ -18,15 +19,15 @@ header {
 }
 
 h1 {
-    color: #333;
+    color: red;
 }
 
 h2 {
-    color: #007BFF;
+    color: red;
 }
 
 p, li {
-    color: #555;
+    color: red;
 }
 
 ul {
